@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Fateme 👋</h1>
+<h1 align="center">Hi, I'm Fateme </h1>
 
 <p align="center">
   Backend developer focused on <b>Python</b> & <b>GIS</b> (Geographic Information Systems)
