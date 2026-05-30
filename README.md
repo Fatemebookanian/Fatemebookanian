@@ -33,6 +33,8 @@ I'm a backend developer with a passion for building systems around spatial data 
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
+![TileServer](https://img.shields.io/badge/Tile%20Server-1A73E8?style=for-the-badge&logoColor=white)
+![Tippecanoe](https://img.shields.io/badge/Tippecanoe-E06C00?style=for-the-badge&logoColor=white)
 
 ---
 
