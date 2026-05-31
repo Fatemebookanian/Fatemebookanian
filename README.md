@@ -41,7 +41,7 @@ I'm a backend developer with a passion for building systems around spatial data 
 
 ## 📫 Get in Touch
 
-[![Email](https://img.shields.io/badge/Email-Fatemebookanian@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Fatemebookanian@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Fatemebookanian@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Fatemebookanian6@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@Fatemebookanian-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fatemebookanian)
 
 Feel free to reach out 
